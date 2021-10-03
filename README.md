@@ -1,2 +1,2 @@
 # DS-and-Algo
-Problem solving practice from competitive web site like HackerRank | AlgoExpert | Leet Code
+Problem solving practice from competitive website like HackerRank | AlgoExpert | Leet Code
