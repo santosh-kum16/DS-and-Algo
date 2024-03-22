@@ -1,0 +1,9 @@
+Recursion in java is a process in which a method calls itself continuously if not terminted correctly it will run infinitely. A method in java that calls itself is called recursive method.
+
+Syntax:-
+
+returntype methodname(){  
+//code to be executed 
+  ...
+methodname();//calling same method  
+}  
